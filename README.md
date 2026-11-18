@@ -80,6 +80,16 @@ Your own account includes a referral link and code, available from the **Referra
 
 You can share your link directly, or use `?ref=qhmpr0qe` on a make.fun page. Referral rewards are paid on top, so the referred participant’s own prize is not reduced.
 
+## A quick pre-flight checklist
+
+- [ ] Create your make.fun account.
+- [ ] Link your Solana wallet.
+- [ ] Download the competition kit and pair your coding agent.
+- [ ] Read the bounty rules, deadline, and submission requirements.
+- [ ] Run the kit’s local entry checks and, where available, its local grade.
+- [ ] Bundle the transcripts required for your entry.
+- [ ] After submitting, check your entry’s status and address any failed checks before the deadline.
+
 ## Frequently asked questions
 
 <details>
